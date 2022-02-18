@@ -3,7 +3,15 @@
 ## できること
 
 - JupyterLab
+- pandas
 - NumPy
+- scipy
+- matplotlib
+- beautifulsoup4
+- Flask
+- Django
+
+他いろいろ
 
 ## 手順
 
