@@ -26,6 +26,8 @@ RUN python -m pip install numpy
 RUN python -m pip install scipy
 RUN python -m pip install xlrd
 RUN python -m pip install XlsxWriter
+RUN python -m pip install python-math
+RUN python -m pip install scikit-learn
 
 # 画像系
 RUN python -m pip install matplotlib
