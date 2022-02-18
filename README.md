@@ -1,5 +1,10 @@
 # Docker + Python 実行環境
 
+## できること
+
+- JupyterLab
+- NumPy
+
 ## 手順
 
 ### Docker イメージの作成、コンテナのビルド、そしてコンテナの起動
