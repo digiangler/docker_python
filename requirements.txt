@@ -1,0 +1,36 @@
+# 便利ツール
+# pip-review
+# tqdm
+# joblib
+jupyterlab
+
+# 分析系
+# pandas
+# numpy
+# scipy
+# xlrd
+# XlsxWriter
+# python-math
+# scikit-learn
+
+# 画像系
+# matplotlib
+# japanize-matplotlib
+# Pillow
+# opencv-python
+# folium
+# plotly
+# wordcloud
+
+# スクレイピング系
+# requests
+# beautifulsoup4
+# lxml
+# selenium
+
+# web系
+# Flask
+# Flask-Bootstrap4
+# Django
+# PyMySQL
+# tweepy
